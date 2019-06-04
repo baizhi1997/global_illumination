@@ -12,7 +12,7 @@ public:
 	static const Color GREEN;
 	static const Color BLUE;
 	static const Color GRAY;
-    static const Color YELLOW;
+    	static const Color YELLOW;
 	static const Color MAGENTA;
 	static const Color PURPLE;
 
